@@ -1,0 +1,8 @@
+Mysql 
+Streamlit 
+Pandas 
+Plotly 
+Matplotlib 
+Sqlalchemy 
+Numpy 
+pymysql
